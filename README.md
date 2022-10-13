@@ -1,15 +1,9 @@
 # Movie Review
 ```
 In this web application you will find many informative movie reviews, you can compare different reviews on current, upcoming, recent, or vintage movies and even get a sneak-peek at the trailers. You can filter the movies by genre. This extension is built in a more user-friendly manner where they can save time by loading all the currently playing movies in a single click.
-```
-## Live Dem
-**This App deployed on Replit.com.**
-Check out [FRONTEND LIVE DEMO](# Movie Review
-```
-In this web application you will find many informative movie reviews, you can compare different reviews on current, upcoming, recent, or vintage movies and even get a sneak-peek at the trailers. You can filter the movies by genre. This extension is built in a more user-friendly manner where they can save time by loading all the currently playing movies in a single click.
-```
+
 ## Live Demo
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
+**This App deployed on Replit.com.**
 Check out [FRONTEND LIVE DEMO](https://synamatic-frontend.nght321.repl.co/) here!!
 Check out [API LIVE DEMO](https://synamatic-backend.nght321.repl.co/movies/
 ) here!!
